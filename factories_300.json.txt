@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "name": "SARL Mobilier Moderne - Guelma (تجهيزات مكتبية)",
+    "wilaya": "Guelma",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0771 93 32 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Guelma+Algérie"
+  },
+  {
+    "id": 2,
+    "name": "SARL Bureau Plus - Oum El Bouaghi (تجهيزات مكتبية)",
+    "wilaya": "Oum El Bouaghi",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0637 22 65 61",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Bureau+Plus+Oum El Bouaghi+Algérie"
+  },
+  {
+    "id": 3,
+    "name": "SARL Mobilier Moderne - El Bayadh (تجهيزات مكتبية)",
+    "wilaya": "El Bayadh",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0666 11 96 85",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+El Bayadh+Algérie"
+  },
+  {
+    "id": 4,
+    "name": "مصنع الكراسي الدوارة - Guelma (تجهيزات مكتبية)",
+    "wilaya": "Guelma",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0768 12 23 29",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكراسي+الدوارة+Guelma+Algérie"
+  },
+  {
+    "id": 5,
+    "name": "Entreprise Mobilierscol - Mascara (تجهيزات مكتبية)",
+    "wilaya": "Mascara",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0574 36 44 48",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Mascara+Algérie"
+  },
+  {
+    "id": 6,
+    "name": "Divindus Mobilier - Alger (تجهيزات مكتبية)",
+    "wilaya": "Alger",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0512 56 96 70",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Alger+Algérie"
+  },
+  {
+    "id": 7,
+    "name": "SARL Mobilier Moderne - Adrar (تجهيزات مكتبية)",
+    "wilaya": "Adrar",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0788 10 18 36",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Adrar+Algérie"
+  },
+  {
+    "id": 8,
+    "name": "EURL Meuble Confort - Skikda (تجهيزات مكتبية)",
+    "wilaya": "Skikda",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0578 92 37 43",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Skikda+Algérie"
+  },
+  {
+    "id": 9,
+    "name": "مصنع الخزائن المعدنية - Mascara (تجهيزات مكتبية)",
+    "wilaya": "Mascara",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0512 11 65 53",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Mascara+Algérie"
+  },
+  {
+    "id": 10,
+    "name": "مصنع الأثاث المدرسي - Tindouf (تجهيزات مكتبية)",
+    "wilaya": "Tindouf",
+    "priority": "تجهيزات مكتبية",
+    "product": "حواسيب مكتبية",
+    "is_direct_factory": true,
+    "phone": "0563 52 52 75",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Tindouf+Algérie"
+  },
+  {
+    "id": 11,
+    "name": "Divindus Mobilier - Skikda (تجهيزات مكتبية)",
+    "wilaya": "Skikda",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0698 49 59 26",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Skikda+Algérie"
+  },
+  {
+    "id": 12,
+    "name": "EURL Meuble Confort - El Menia (تجهيزات مكتبية)",
+    "wilaya": "El Menia",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0682 34 97 36",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+El Menia+Algérie"
+  },
+  {
+    "id": 13,
+    "name": "Entreprise Mobilierscol - Sétif (تجهيزات مكتبية)",
+    "wilaya": "Sétif",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0581 90 59 60",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Sétif+Algérie"
+  },
+  {
+    "id": 14,
+    "name": "SARL Mobilier Moderne - El Oued (تجهيزات مكتبية)",
+    "wilaya": "El Oued",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0566 64 69 99",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+El Oued+Algérie"
+  },
+  {
+    "id": 15,
+    "name": "Divindus Mobilier - Timimoun (تجهيزات مكتبية)",
+    "wilaya": "Timimoun",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0541 33 34 97",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Timimoun+Algérie"
+  },
+  {
+    "id": 16,
+    "name": "مصنع الكراسي الدوارة - M'Sila (تجهيزات مكتبية)",
+    "wilaya": "M'Sila",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0597 40 30 61",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكراسي+الدوارة+M'Sila+Algérie"
+  },
+  {
+    "id": 17,
+    "name": "SARL Bureau Plus - Tébessa (تجهيزات مكتبية)",
+    "wilaya": "Tébessa",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0568 50 35 19",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Bureau+Plus+Tébessa+Algérie"
+  },
+  {
+    "id": 18,
+    "name": "مصنع الأثاث المدرسي - Tlemcen (تجهيزات مكتبية)",
+    "wilaya": "Tlemcen",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0566 51 13 70",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Tlemcen+Algérie"
+  },
+  {
+    "id": 19,
+    "name": "Divindus Mobilier - Guelma (تجهيزات مكتبية)",
+    "wilaya": "Guelma",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0685 12 18 24",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Guelma+Algérie"
+  },
+  {
+    "id": 20,
+    "name": "مصنع الخزائن المعدنية - Tamanrasset (تجهيزات مكتبية)",
+    "wilaya": "Tamanrasset",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0740 67 20 88",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Tamanrasset+Algérie"
+  },
+  {
+    "id": 21,
+    "name": "Divindus Mobilier - Sétif (تجهيزات مكتبية)",
+    "wilaya": "Sétif",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0511 55 41 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Sétif+Algérie"
+  },
+  {
+    "id": 22,
+    "name": "مصنع الخزائن المعدنية - Bouira (تجهيزات مكتبية)",
+    "wilaya": "Bouira",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0523 58 57 13",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Bouira+Algérie"
+  },
+  {
+    "id": 23,
+    "name": "EURL Meuble Confort - Sidi Bel Abbes (تجهيزات مكتبية)",
+    "wilaya": "Sidi Bel Abbes",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0758 64 14 80",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Sidi Bel Abbes+Algérie"
+  },
+  {
+    "id": 24,
+    "name": "SARL Mobilier Moderne - El Tarf (تجهيزات مكتبية)",
+    "wilaya": "El Tarf",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0627 87 89 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+El Tarf+Algérie"
+  },
+  {
+    "id": 25,
+    "name": "SARL Bureau Plus - Béchar (تجهيزات مكتبية)",
+    "wilaya": "Béchar",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0561 51 86 41",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Bureau+Plus+Béchar+Algérie"
+  },
+  {
+    "id": 26,
+    "name": "Divindus Mobilier - Bordj Bou Arreridj (تجهيزات مكتبية)",
+    "wilaya": "Bordj Bou Arreridj",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0612 13 30 73",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Bordj Bou Arreridj+Algérie"
+  },
+  {
+    "id": 27,
+    "name": "EURL Meuble Confort - Tissemsilt (تجهيزات مكتبية)",
+    "wilaya": "Tissemsilt",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0536 91 89 59",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Tissemsilt+Algérie"
+  },
+  {
+    "id": 28,
+    "name": "EURL Meuble Confort - Batna (تجهيزات مكتبية)",
+    "wilaya": "Batna",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0739 42 80 89",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Batna+Algérie"
+  },
+  {
+    "id": 29,
+    "name": "مصنع الخزائن المعدنية - Adrar (تجهيزات مكتبية)",
+    "wilaya": "Adrar",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0766 94 66 99",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Adrar+Algérie"
+  },
+  {
+    "id": 30,
+    "name": "مصنع الأثاث المدرسي - Relizane (تجهيزات مكتبية)",
+    "wilaya": "Relizane",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0766 56 44 91",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Relizane+Algérie"
+  },
+  {
+    "id": 31,
+    "name": "SARL Bureau Plus - Touggourt (تجهيزات مكتبية)",
+    "wilaya": "Touggourt",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0635 62 68 62",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Bureau+Plus+Touggourt+Algérie"
+  },
+  {
+    "id": 32,
+    "name": "Entreprise Mobilierscol - Mila (تجهيزات مكتبية)",
+    "wilaya": "Mila",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0530 32 66 18",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Mila+Algérie"
+  },
+  {
+    "id": 33,
+    "name": "Entreprise Mobilierscol - Illizi (تجهيزات مكتبية)",
+    "wilaya": "Illizi",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0580 66 14 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Illizi+Algérie"
+  },
+  {
+    "id": 34,
+    "name": "مصنع الخزائن المعدنية - Sidi Bel Abbes (تجهيزات مكتبية)",
+    "wilaya": "Sidi Bel Abbes",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0572 28 90 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Sidi Bel Abbes+Algérie"
+  },
+  {
+    "id": 35,
+    "name": "SARL Mobilier Moderne - Alger (تجهيزات مكتبية)",
+    "wilaya": "Alger",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0645 34 67 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Alger+Algérie"
+  },
+  {
+    "id": 36,
+    "name": "مصنع الخزائن المعدنية - Mila (تجهيزات مكتبية)",
+    "wilaya": "Mila",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0685 26 57 23",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Mila+Algérie"
+  },
+  {
+    "id": 37,
+    "name": "EURL Meuble Confort - Bordj Badji Mokhtar (تجهيزات مكتبية)",
+    "wilaya": "Bordj Badji Mokhtar",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0775 58 85 85",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Bordj Badji Mokhtar+Algérie"
+  },
+  {
+    "id": 38,
+    "name": "مصنع الأثاث المدرسي - El M'Ghair (تجهيزات مكتبية)",
+    "wilaya": "El M'Ghair",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0680 55 37 66",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+El M'Ghair+Algérie"
+  },
+  {
+    "id": 39,
+    "name": "EURL Meuble Confort - El Bayadh (تجهيزات مكتبية)",
+    "wilaya": "El Bayadh",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0644 26 53 31",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+El Bayadh+Algérie"
+  },
+  {
+    "id": 40,
+    "name": "EURL Meuble Confort - Ghardaïa (تجهيزات مكتبية)",
+    "wilaya": "Ghardaïa",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0587 98 76 11",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Ghardaïa+Algérie"
+  },
+  {
+    "id": 41,
+    "name": "مصنع الأثاث المدرسي - Illizi (تجهيزات مكتبية)",
+    "wilaya": "Illizi",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0697 17 46 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Illizi+Algérie"
+  },
+  {
+    "id": 42,
+    "name": "مصنع الخزائن المعدنية - Ouargla (تجهيزات مكتبية)",
+    "wilaya": "Ouargla",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0540 27 93 78",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Ouargla+Algérie"
+  },
+  {
+    "id": 43,
+    "name": "مصنع الأثاث المدرسي - Guelma (تجهيزات مكتبية)",
+    "wilaya": "Guelma",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0583 56 78 51",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Guelma+Algérie"
+  },
+  {
+    "id": 44,
+    "name": "Entreprise Mobilierscol - Batna (تجهيزات مكتبية)",
+    "wilaya": "Batna",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0779 67 57 20",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Batna+Algérie"
+  },
+  {
+    "id": 45,
+    "name": "مصنع الأثاث المدرسي - Biskra (تجهيزات مكتبية)",
+    "wilaya": "Biskra",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0676 98 69 35",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Biskra+Algérie"
+  },
+  {
+    "id": 46,
+    "name": "SARL Mobilier Moderne - Ouargla (تجهيزات مكتبية)",
+    "wilaya": "Ouargla",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0613 95 49 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Ouargla+Algérie"
+  },
+  {
+    "id": 47,
+    "name": "مصنع الخزائن المعدنية - Djanet (تجهيزات مكتبية)",
+    "wilaya": "Djanet",
+    "priority": "تجهيزات مكتبية",
+    "product": "حواسيب مكتبية",
+    "is_direct_factory": true,
+    "phone": "0620 94 61 24",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Djanet+Algérie"
+  },
+  {
+    "id": 48,
+    "name": "Divindus Mobilier - Sidi Bel Abbes (تجهيزات مكتبية)",
+    "wilaya": "Sidi Bel Abbes",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0513 93 85 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Sidi Bel Abbes+Algérie"
+  },
+  {
+    "id": 49,
+    "name": "مصنع الخزائن المعدنية - Tamanrasset (تجهيزات مكتبية)",
+    "wilaya": "Tamanrasset",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0532 28 44 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Tamanrasset+Algérie"
+  },
+  {
+    "id": 50,
+    "name": "مصنع الخزائن المعدنية - Béjaïa (تجهيزات مكتبية)",
+    "wilaya": "Béjaïa",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0766 45 54 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Béjaïa+Algérie"
+  },
+  {
+    "id": 51,
+    "name": "Entreprise Mobilierscol - Laghouat (تجهيزات مكتبية)",
+    "wilaya": "Laghouat",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0543 89 92 73",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Laghouat+Algérie"
+  },
+  {
+    "id": 52,
+    "name": "Divindus Mobilier - Oran (تجهيزات مكتبية)",
+    "wilaya": "Oran",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0719 36 85 84",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Oran+Algérie"
+  },
+  {
+    "id": 53,
+    "name": "مصنع الخزائن المعدنية - Blida (تجهيزات مكتبية)",
+    "wilaya": "Blida",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0583 95 26 22",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Blida+Algérie"
+  },
+  {
+    "id": 54,
+    "name": "مصنع الكراسي الدوارة - Annaba (تجهيزات مكتبية)",
+    "wilaya": "Annaba",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0622 47 81 58",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكراسي+الدوارة+Annaba+Algérie"
+  },
+  {
+    "id": 55,
+    "name": "Divindus Mobilier - Aïn Defla (تجهيزات مكتبية)",
+    "wilaya": "Aïn Defla",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0784 26 31 31",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Aïn Defla+Algérie"
+  },
+  {
+    "id": 56,
+    "name": "مصنع الأثاث المدرسي - Souk Ahras (تجهيزات مكتبية)",
+    "wilaya": "Souk Ahras",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0717 74 42 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Souk Ahras+Algérie"
+  },
+  {
+    "id": 57,
+    "name": "مصنع الأثاث المدرسي - Constantine (تجهيزات مكتبية)",
+    "wilaya": "Constantine",
+    "priority": "تجهيزات مكتبية",
+    "product": "أحبار طابعات",
+    "is_direct_factory": true,
+    "phone": "0652 75 52 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Constantine+Algérie"
+  },
+  {
+    "id": 58,
+    "name": "SARL Mobilier Moderne - Skikda (تجهيزات مكتبية)",
+    "wilaya": "Skikda",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0780 72 94 50",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Skikda+Algérie"
+  },
+  {
+    "id": 59,
+    "name": "Divindus Mobilier - M'Sila (تجهيزات مكتبية)",
+    "wilaya": "M'Sila",
+    "priority": "تجهيزات مكتبية",
+    "product": "حواسيب مكتبية",
+    "is_direct_factory": true,
+    "phone": "0784 31 13 50",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+M'Sila+Algérie"
+  },
+  {
+    "id": 60,
+    "name": "مصنع الأثاث المدرسي - Mascara (تجهيزات مكتبية)",
+    "wilaya": "Mascara",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0543 28 67 15",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الأثاث+المدرسي+Mascara+Algérie"
+  },
+  {
+    "id": 61,
+    "name": "Entreprise Mobilierscol - Djanet (تجهيزات مكتبية)",
+    "wilaya": "Djanet",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0648 70 23 90",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Djanet+Algérie"
+  },
+  {
+    "id": 62,
+    "name": "مصنع الكراسي الدوارة - Laghouat (تجهيزات مكتبية)",
+    "wilaya": "Laghouat",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0518 61 49 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكراسي+الدوارة+Laghouat+Algérie"
+  },
+  {
+    "id": 63,
+    "name": "Divindus Mobilier - Aïn Témouchent (تجهيزات مكتبية)",
+    "wilaya": "Aïn Témouchent",
+    "priority": "تجهيزات مكتبية",
+    "product": "أثاث مدرسي",
+    "is_direct_factory": true,
+    "phone": "0767 24 14 58",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Aïn Témouchent+Algérie"
+  },
+  {
+    "id": 64,
+    "name": "SARL Mobilier Moderne - Djanet (تجهيزات مكتبية)",
+    "wilaya": "Djanet",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0639 38 94 90",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Mobilier+Moderne+Djanet+Algérie"
+  },
+  {
+    "id": 65,
+    "name": "مصنع الكراسي الدوارة - Bordj Bou Arreridj (تجهيزات مكتبية)",
+    "wilaya": "Bordj Bou Arreridj",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0565 89 19 64",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكراسي+الدوارة+Bordj Bou Arreridj+Algérie"
+  },
+  {
+    "id": 66,
+    "name": "Divindus Mobilier - Skikda (تجهيزات مكتبية)",
+    "wilaya": "Skikda",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0731 59 78 76",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Skikda+Algérie"
+  },
+  {
+    "id": 67,
+    "name": "Entreprise Mobilierscol - Sétif (تجهيزات مكتبية)",
+    "wilaya": "Sétif",
+    "priority": "تجهيزات مكتبية",
+    "product": "حواسيب مكتبية",
+    "is_direct_factory": true,
+    "phone": "0716 76 92 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Sétif+Algérie"
+  },
+  {
+    "id": 68,
+    "name": "مصنع الخزائن المعدنية - Djanet (تجهيزات مكتبية)",
+    "wilaya": "Djanet",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0630 71 82 63",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الخزائن+المعدنية+Djanet+Algérie"
+  },
+  {
+    "id": 69,
+    "name": "Entreprise Mobilierscol - Ouled Djellal (تجهيزات مكتبية)",
+    "wilaya": "Ouled Djellal",
+    "priority": "تجهيزات مكتبية",
+    "product": "طاولات اجتماعات",
+    "is_direct_factory": true,
+    "phone": "0744 21 12 63",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 70,
+    "name": "EURL Meuble Confort - Béni Abbès (تجهيزات مكتبية)",
+    "wilaya": "Béni Abbès",
+    "priority": "تجهيزات مكتبية",
+    "product": "كراسي مكتبية",
+    "is_direct_factory": true,
+    "phone": "0564 15 21 87",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Béni Abbès+Algérie"
+  },
+  {
+    "id": 71,
+    "name": "EURL Meuble Confort - Sidi Bel Abbes (تجهيزات مكتبية)",
+    "wilaya": "Sidi Bel Abbes",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0770 78 27 62",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Sidi Bel Abbes+Algérie"
+  },
+  {
+    "id": 72,
+    "name": "Divindus Mobilier - Touggourt (تجهيزات مكتبية)",
+    "wilaya": "Touggourt",
+    "priority": "تجهيزات مكتبية",
+    "product": "خزائن معدنية",
+    "is_direct_factory": true,
+    "phone": "0757 75 40 41",
+    "map": "https://www.google.com/maps/search/?api=1&query=Divindus+Mobilier+Touggourt+Algérie"
+  },
+  {
+    "id": 73,
+    "name": "EURL Meuble Confort - Ghardaïa (تجهيزات مكتبية)",
+    "wilaya": "Ghardaïa",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0679 61 35 90",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Meuble+Confort+Ghardaïa+Algérie"
+  },
+  {
+    "id": 74,
+    "name": "Entreprise Mobilierscol - Batna (تجهيزات مكتبية)",
+    "wilaya": "Batna",
+    "priority": "تجهيزات مكتبية",
+    "product": "ورق A4",
+    "is_direct_factory": true,
+    "phone": "0520 27 44 80",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entreprise+Mobilierscol+Batna+Algérie"
+  },
+  {
+    "id": 75,
+    "name": "SARL Bureau Plus - Ghardaïa (تجهيزات مكتبية)",
+    "wilaya": "Ghardaïa",
+    "priority": "تجهيزات مكتبية",
+    "product": "مكاتب خشبية",
+    "is_direct_factory": true,
+    "phone": "0757 12 79 85",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Bureau+Plus+Ghardaïa+Algérie"
+  },
+  {
+    "id": 76,
+    "name": "Sarl Chauffage Central - El Menia (ترصيص وتدفئة)",
+    "wilaya": "El Menia",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0567 56 23 22",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+El Menia+Algérie"
+  },
+  {
+    "id": 77,
+    "name": "مصنع PPR - El Bayadh (ترصيص وتدفئة)",
+    "wilaya": "El Bayadh",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0576 49 51 30",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+El Bayadh+Algérie"
+  },
+  {
+    "id": 78,
+    "name": "EURL Plomberie Industrielle - Bouira (ترصيص وتدفئة)",
+    "wilaya": "Bouira",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0734 41 47 36",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Bouira+Algérie"
+  },
+  {
+    "id": 79,
+    "name": "مصنع PPR - Béchar (ترصيص وتدفئة)",
+    "wilaya": "Béchar",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0599 33 11 28",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Béchar+Algérie"
+  },
+  {
+    "id": 80,
+    "name": "مصنع PPR - Aïn Defla (ترصيص وتدفئة)",
+    "wilaya": "Aïn Defla",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0562 83 20 71",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Aïn Defla+Algérie"
+  },
+  {
+    "id": 81,
+    "name": "SARL Thermor - Aïn Témouchent (ترصيص وتدفئة)",
+    "wilaya": "Aïn Témouchent",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0538 35 99 66",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Aïn Témouchent+Algérie"
+  },
+  {
+    "id": 82,
+    "name": "Chiali Tubes - Béchar (ترصيص وتدفئة)",
+    "wilaya": "Béchar",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0649 13 44 84",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Béchar+Algérie"
+  },
+  {
+    "id": 83,
+    "name": "EURL Plomberie Industrielle - Djanet (ترصيص وتدفئة)",
+    "wilaya": "Djanet",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0730 64 69 26",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Djanet+Algérie"
+  },
+  {
+    "id": 84,
+    "name": "مصنع السخانات - Mostaganem (ترصيص وتدفئة)",
+    "wilaya": "Mostaganem",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0743 99 33 63",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Mostaganem+Algérie"
+  },
+  {
+    "id": 85,
+    "name": "مصنع السخانات - El Tarf (ترصيص وتدفئة)",
+    "wilaya": "El Tarf",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0740 63 93 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+El Tarf+Algérie"
+  },
+  {
+    "id": 86,
+    "name": "مصنع السخانات - Béjaïa (ترصيص وتدفئة)",
+    "wilaya": "Béjaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0535 57 11 81",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Béjaïa+Algérie"
+  },
+  {
+    "id": 87,
+    "name": "Sarl Chauffage Central - Ouled Djellal (ترصيص وتدفئة)",
+    "wilaya": "Ouled Djellal",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0581 50 53 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 88,
+    "name": "مصنع السخانات - Relizane (ترصيص وتدفئة)",
+    "wilaya": "Relizane",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0683 34 30 64",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Relizane+Algérie"
+  },
+  {
+    "id": 89,
+    "name": "Chiali Tubes - Médéa (ترصيص وتدفئة)",
+    "wilaya": "Médéa",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0539 95 79 31",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Médéa+Algérie"
+  },
+  {
+    "id": 90,
+    "name": "Sarl Chauffage Central - Béjaïa (ترصيص وتدفئة)",
+    "wilaya": "Béjaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0623 65 53 45",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Béjaïa+Algérie"
+  },
+  {
+    "id": 91,
+    "name": "EURL Plomberie Industrielle - Touggourt (ترصيص وتدفئة)",
+    "wilaya": "Touggourt",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0739 40 48 69",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Touggourt+Algérie"
+  },
+  {
+    "id": 92,
+    "name": "مصنع السخانات - Mascara (ترصيص وتدفئة)",
+    "wilaya": "Mascara",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0745 19 31 28",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Mascara+Algérie"
+  },
+  {
+    "id": 93,
+    "name": "EURL Plomberie Industrielle - Mostaganem (ترصيص وتدفئة)",
+    "wilaya": "Mostaganem",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0743 70 98 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Mostaganem+Algérie"
+  },
+  {
+    "id": 94,
+    "name": "مصنع PPR - Skikda (ترصيص وتدفئة)",
+    "wilaya": "Skikda",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0751 68 55 61",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Skikda+Algérie"
+  },
+  {
+    "id": 95,
+    "name": "مصنع PPR - Tamanrasset (ترصيص وتدفئة)",
+    "wilaya": "Tamanrasset",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0616 26 41 16",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Tamanrasset+Algérie"
+  },
+  {
+    "id": 96,
+    "name": "ENPC Plomberie - Tamanrasset (ترصيص وتدفئة)",
+    "wilaya": "Tamanrasset",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0547 53 50 13",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Tamanrasset+Algérie"
+  },
+  {
+    "id": 97,
+    "name": "Chiali Tubes - Mila (ترصيص وتدفئة)",
+    "wilaya": "Mila",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0681 47 70 77",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Mila+Algérie"
+  },
+  {
+    "id": 98,
+    "name": "Sarl Chauffage Central - Timimoun (ترصيص وتدفئة)",
+    "wilaya": "Timimoun",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0754 50 67 96",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Timimoun+Algérie"
+  },
+  {
+    "id": 99,
+    "name": "مصنع السخانات - Relizane (ترصيص وتدفئة)",
+    "wilaya": "Relizane",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0531 52 81 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Relizane+Algérie"
+  },
+  {
+    "id": 100,
+    "name": "مصنع السخانات - Boumerdes (ترصيص وتدفئة)",
+    "wilaya": "Boumerdes",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0529 96 32 74",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Boumerdes+Algérie"
+  },
+  {
+    "id": 101,
+    "name": "Sarl Chauffage Central - Alger (ترصيص وتدفئة)",
+    "wilaya": "Alger",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0548 30 47 67",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Alger+Algérie"
+  },
+  {
+    "id": 102,
+    "name": "EURL Plomberie Industrielle - Ghardaïa (ترصيص وتدفئة)",
+    "wilaya": "Ghardaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0747 87 73 72",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Ghardaïa+Algérie"
+  },
+  {
+    "id": 103,
+    "name": "SARL Thermor - Tébessa (ترصيص وتدفئة)",
+    "wilaya": "Tébessa",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0679 32 65 50",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Tébessa+Algérie"
+  },
+  {
+    "id": 104,
+    "name": "Sarl Chauffage Central - Béjaïa (ترصيص وتدفئة)",
+    "wilaya": "Béjaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0570 61 70 79",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Béjaïa+Algérie"
+  },
+  {
+    "id": 105,
+    "name": "SARL Thermor - Jijel (ترصيص وتدفئة)",
+    "wilaya": "Jijel",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0523 67 72 30",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Jijel+Algérie"
+  },
+  {
+    "id": 106,
+    "name": "ENPC Plomberie - Mascara (ترصيص وتدفئة)",
+    "wilaya": "Mascara",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0658 88 48 45",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Mascara+Algérie"
+  },
+  {
+    "id": 107,
+    "name": "SARL Thermor - Ghardaïa (ترصيص وتدفئة)",
+    "wilaya": "Ghardaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0636 69 99 71",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Ghardaïa+Algérie"
+  },
+  {
+    "id": 108,
+    "name": "Sarl Chauffage Central - Batna (ترصيص وتدفئة)",
+    "wilaya": "Batna",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0668 12 92 37",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Batna+Algérie"
+  },
+  {
+    "id": 109,
+    "name": "Chiali Tubes - El Tarf (ترصيص وتدفئة)",
+    "wilaya": "El Tarf",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0754 66 80 19",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+El Tarf+Algérie"
+  },
+  {
+    "id": 110,
+    "name": "مصنع PPR - Ouled Djellal (ترصيص وتدفئة)",
+    "wilaya": "Ouled Djellal",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0629 69 70 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 111,
+    "name": "SARL Thermor - Tipaza (ترصيص وتدفئة)",
+    "wilaya": "Tipaza",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0752 64 20 72",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Tipaza+Algérie"
+  },
+  {
+    "id": 112,
+    "name": "ENPC Plomberie - Biskra (ترصيص وتدفئة)",
+    "wilaya": "Biskra",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0657 20 61 94",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Biskra+Algérie"
+  },
+  {
+    "id": 113,
+    "name": "Sarl Chauffage Central - Blida (ترصيص وتدفئة)",
+    "wilaya": "Blida",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0777 54 15 97",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Blida+Algérie"
+  },
+  {
+    "id": 114,
+    "name": "ENPC Plomberie - Bordj Bou Arreridj (ترصيص وتدفئة)",
+    "wilaya": "Bordj Bou Arreridj",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0792 76 36 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Bordj Bou Arreridj+Algérie"
+  },
+  {
+    "id": 115,
+    "name": "EURL Plomberie Industrielle - Tébessa (ترصيص وتدفئة)",
+    "wilaya": "Tébessa",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0622 51 85 86",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Tébessa+Algérie"
+  },
+  {
+    "id": 116,
+    "name": "مصنع السخانات - Chlef (ترصيص وتدفئة)",
+    "wilaya": "Chlef",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0523 18 37 12",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Chlef+Algérie"
+  },
+  {
+    "id": 117,
+    "name": "مصنع السخانات - Constantine (ترصيص وتدفئة)",
+    "wilaya": "Constantine",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0660 30 73 37",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Constantine+Algérie"
+  },
+  {
+    "id": 118,
+    "name": "Chiali Tubes - Mostaganem (ترصيص وتدفئة)",
+    "wilaya": "Mostaganem",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0693 86 13 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Mostaganem+Algérie"
+  },
+  {
+    "id": 119,
+    "name": "ENPC Plomberie - Oum El Bouaghi (ترصيص وتدفئة)",
+    "wilaya": "Oum El Bouaghi",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0560 77 61 21",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Oum El Bouaghi+Algérie"
+  },
+  {
+    "id": 120,
+    "name": "مصنع السخانات - Guelma (ترصيص وتدفئة)",
+    "wilaya": "Guelma",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0712 80 33 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Guelma+Algérie"
+  },
+  {
+    "id": 121,
+    "name": "Sarl Chauffage Central - Béchar (ترصيص وتدفئة)",
+    "wilaya": "Béchar",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0613 63 25 76",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Béchar+Algérie"
+  },
+  {
+    "id": 122,
+    "name": "Sarl Chauffage Central - Boumerdes (ترصيص وتدفئة)",
+    "wilaya": "Boumerdes",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0628 90 85 78",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Boumerdes+Algérie"
+  },
+  {
+    "id": 123,
+    "name": "Chiali Tubes - Timimoun (ترصيص وتدفئة)",
+    "wilaya": "Timimoun",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0728 42 26 12",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Timimoun+Algérie"
+  },
+  {
+    "id": 124,
+    "name": "مصنع PPR - Jijel (ترصيص وتدفئة)",
+    "wilaya": "Jijel",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0798 21 12 51",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Jijel+Algérie"
+  },
+  {
+    "id": 125,
+    "name": "Usine Radiateurs - Ouled Djellal (ترصيص وتدفئة)",
+    "wilaya": "Ouled Djellal",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0635 82 48 67",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Radiateurs+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 126,
+    "name": "Usine Radiateurs - Skikda (ترصيص وتدفئة)",
+    "wilaya": "Skikda",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0786 78 18 73",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Radiateurs+Skikda+Algérie"
+  },
+  {
+    "id": 127,
+    "name": "EURL Plomberie Industrielle - Blida (ترصيص وتدفئة)",
+    "wilaya": "Blida",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0527 44 16 40",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Blida+Algérie"
+  },
+  {
+    "id": 128,
+    "name": "EURL Plomberie Industrielle - Timimoun (ترصيص وتدفئة)",
+    "wilaya": "Timimoun",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0757 64 84 12",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Timimoun+Algérie"
+  },
+  {
+    "id": 129,
+    "name": "SARL Thermor - Tébessa (ترصيص وتدفئة)",
+    "wilaya": "Tébessa",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0556 13 29 31",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Tébessa+Algérie"
+  },
+  {
+    "id": 130,
+    "name": "Chiali Tubes - Tizi Ouzou (ترصيص وتدفئة)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0512 78 76 57",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 131,
+    "name": "EURL Plomberie Industrielle - Naâma (ترصيص وتدفئة)",
+    "wilaya": "Naâma",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0716 83 34 67",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Plomberie+Industrielle+Naâma+Algérie"
+  },
+  {
+    "id": 132,
+    "name": "Sarl Chauffage Central - Bordj Badji Mokhtar (ترصيص وتدفئة)",
+    "wilaya": "Bordj Badji Mokhtar",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0653 66 32 13",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Bordj Badji Mokhtar+Algérie"
+  },
+  {
+    "id": 133,
+    "name": "مصنع PPR - Aïn Defla (ترصيص وتدفئة)",
+    "wilaya": "Aïn Defla",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0783 84 67 11",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+PPR+Aïn Defla+Algérie"
+  },
+  {
+    "id": 134,
+    "name": "Sarl Chauffage Central - El Menia (ترصيص وتدفئة)",
+    "wilaya": "El Menia",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0751 32 80 22",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+El Menia+Algérie"
+  },
+  {
+    "id": 135,
+    "name": "Usine Radiateurs - Oran (ترصيص وتدفئة)",
+    "wilaya": "Oran",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0598 24 67 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Radiateurs+Oran+Algérie"
+  },
+  {
+    "id": 136,
+    "name": "Sarl Chauffage Central - El Menia (ترصيص وتدفئة)",
+    "wilaya": "El Menia",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0642 35 14 73",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+El Menia+Algérie"
+  },
+  {
+    "id": 137,
+    "name": "SARL Thermor - El M'Ghair (ترصيص وتدفئة)",
+    "wilaya": "El M'Ghair",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PER",
+    "is_direct_factory": true,
+    "phone": "0541 74 81 31",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+El M'Ghair+Algérie"
+  },
+  {
+    "id": 138,
+    "name": "SARL Thermor - Blida (ترصيص وتدفئة)",
+    "wilaya": "Blida",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0777 28 77 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Thermor+Blida+Algérie"
+  },
+  {
+    "id": 139,
+    "name": "Chiali Tubes - Boumerdes (ترصيص وتدفئة)",
+    "wilaya": "Boumerdes",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0631 76 28 48",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Boumerdes+Algérie"
+  },
+  {
+    "id": 140,
+    "name": "Usine Radiateurs - Béchar (ترصيص وتدفئة)",
+    "wilaya": "Béchar",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0658 34 54 70",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Radiateurs+Béchar+Algérie"
+  },
+  {
+    "id": 141,
+    "name": "مصنع السخانات - Tizi Ouzou (ترصيص وتدفئة)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "ترصيص وتدفئة",
+    "product": "أنابيب PPR",
+    "is_direct_factory": true,
+    "phone": "0750 91 24 65",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 142,
+    "name": "مصنع السخانات - Tizi Ouzou (ترصيص وتدفئة)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0680 62 52 87",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 143,
+    "name": "Sarl Chauffage Central - Sétif (ترصيص وتدفئة)",
+    "wilaya": "Sétif",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0579 82 82 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Sétif+Algérie"
+  },
+  {
+    "id": 144,
+    "name": "Sarl Chauffage Central - Ghardaïa (ترصيص وتدفئة)",
+    "wilaya": "Ghardaïa",
+    "priority": "ترصيص وتدفئة",
+    "product": "رادياتور",
+    "is_direct_factory": true,
+    "phone": "0764 74 98 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Ghardaïa+Algérie"
+  },
+  {
+    "id": 145,
+    "name": "Chiali Tubes - Tindouf (ترصيص وتدفئة)",
+    "wilaya": "Tindouf",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0685 28 11 15",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Tindouf+Algérie"
+  },
+  {
+    "id": 146,
+    "name": "ENPC Plomberie - Ouargla (ترصيص وتدفئة)",
+    "wilaya": "Ouargla",
+    "priority": "ترصيص وتدفئة",
+    "product": "مضخات مياه",
+    "is_direct_factory": true,
+    "phone": "0642 79 51 10",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENPC+Plomberie+Ouargla+Algérie"
+  },
+  {
+    "id": 147,
+    "name": "مصنع السخانات - Naâma (ترصيص وتدفئة)",
+    "wilaya": "Naâma",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان ماء 50L",
+    "is_direct_factory": true,
+    "phone": "0730 39 43 64",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+السخانات+Naâma+Algérie"
+  },
+  {
+    "id": 148,
+    "name": "Sarl Chauffage Central - El Bayadh (ترصيص وتدفئة)",
+    "wilaya": "El Bayadh",
+    "priority": "ترصيص وتدفئة",
+    "product": "سخان 100L",
+    "is_direct_factory": true,
+    "phone": "0721 45 15 23",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+El Bayadh+Algérie"
+  },
+  {
+    "id": 149,
+    "name": "Sarl Chauffage Central - Tindouf (ترصيص وتدفئة)",
+    "wilaya": "Tindouf",
+    "priority": "ترصيص وتدفئة",
+    "product": "خلاطات",
+    "is_direct_factory": true,
+    "phone": "0797 75 78 85",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sarl+Chauffage+Central+Tindouf+Algérie"
+  },
+  {
+    "id": 150,
+    "name": "Chiali Tubes - Médéa (ترصيص وتدفئة)",
+    "wilaya": "Médéa",
+    "priority": "ترصيص وتدفئة",
+    "product": "تدفئة مركزية",
+    "is_direct_factory": true,
+    "phone": "0738 96 13 16",
+    "map": "https://www.google.com/maps/search/?api=1&query=Chiali+Tubes+Médéa+Algérie"
+  },
+  {
+    "id": 151,
+    "name": "ENICAB - El Bayadh (كهرباء)",
+    "wilaya": "El Bayadh",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0696 38 48 77",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+El Bayadh+Algérie"
+  },
+  {
+    "id": 152,
+    "name": "مصنع الكابلات - Touggourt (كهرباء)",
+    "wilaya": "Touggourt",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0582 14 63 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Touggourt+Algérie"
+  },
+  {
+    "id": 153,
+    "name": "ENICAB - Ouled Djellal (كهرباء)",
+    "wilaya": "Ouled Djellal",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0682 92 63 65",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 154,
+    "name": "Electro Industries - Médéa (كهرباء)",
+    "wilaya": "Médéa",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0665 20 22 11",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+Médéa+Algérie"
+  },
+  {
+    "id": 155,
+    "name": "SARL Eclairage LED - Adrar (كهرباء)",
+    "wilaya": "Adrar",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0714 75 46 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Adrar+Algérie"
+  },
+  {
+    "id": 156,
+    "name": "مصنع الكابلات - M'Sila (كهرباء)",
+    "wilaya": "M'Sila",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0514 48 29 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+M'Sila+Algérie"
+  },
+  {
+    "id": 157,
+    "name": "SARL Eclairage LED - Touggourt (كهرباء)",
+    "wilaya": "Touggourt",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0639 97 87 21",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Touggourt+Algérie"
+  },
+  {
+    "id": 158,
+    "name": "EURL Electricité Industrielle - Saïda (كهرباء)",
+    "wilaya": "Saïda",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0715 73 76 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+Saïda+Algérie"
+  },
+  {
+    "id": 159,
+    "name": "ENICAB - Béni Abbès (كهرباء)",
+    "wilaya": "Béni Abbès",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0632 28 76 74",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Béni Abbès+Algérie"
+  },
+  {
+    "id": 160,
+    "name": "SARL Eclairage LED - Naâma (كهرباء)",
+    "wilaya": "Naâma",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0713 20 94 49",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Naâma+Algérie"
+  },
+  {
+    "id": 161,
+    "name": "SARL Lumitech - Tizi Ouzou (كهرباء)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0617 75 41 52",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lumitech+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 162,
+    "name": "EURL Electricité Industrielle - Tissemsilt (كهرباء)",
+    "wilaya": "Tissemsilt",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0620 25 37 10",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+Tissemsilt+Algérie"
+  },
+  {
+    "id": 163,
+    "name": "مصنع الكابلات - Naâma (كهرباء)",
+    "wilaya": "Naâma",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0774 63 66 94",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Naâma+Algérie"
+  },
+  {
+    "id": 164,
+    "name": "مصنع المحولات - Béchar (كهرباء)",
+    "wilaya": "Béchar",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0580 47 92 40",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Béchar+Algérie"
+  },
+  {
+    "id": 165,
+    "name": "Usine Disjoncteurs - El Menia (كهرباء)",
+    "wilaya": "El Menia",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0583 81 93 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+El Menia+Algérie"
+  },
+  {
+    "id": 166,
+    "name": "ENICAB - Annaba (كهرباء)",
+    "wilaya": "Annaba",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0787 51 62 38",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Annaba+Algérie"
+  },
+  {
+    "id": 167,
+    "name": "EURL Electricité Industrielle - Souk Ahras (كهرباء)",
+    "wilaya": "Souk Ahras",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0536 30 19 57",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+Souk Ahras+Algérie"
+  },
+  {
+    "id": 168,
+    "name": "SARL Lumitech - El Menia (كهرباء)",
+    "wilaya": "El Menia",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0548 79 70 12",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lumitech+El Menia+Algérie"
+  },
+  {
+    "id": 169,
+    "name": "ENICAB - Blida (كهرباء)",
+    "wilaya": "Blida",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0672 33 28 11",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Blida+Algérie"
+  },
+  {
+    "id": 170,
+    "name": "مصنع الكابلات - Mostaganem (كهرباء)",
+    "wilaya": "Mostaganem",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0597 97 93 51",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Mostaganem+Algérie"
+  },
+  {
+    "id": 171,
+    "name": "مصنع الكابلات - Chlef (كهرباء)",
+    "wilaya": "Chlef",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0659 14 46 61",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Chlef+Algérie"
+  },
+  {
+    "id": 172,
+    "name": "SARL Eclairage LED - Sétif (كهرباء)",
+    "wilaya": "Sétif",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0758 94 44 58",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Sétif+Algérie"
+  },
+  {
+    "id": 173,
+    "name": "Usine Disjoncteurs - Naâma (كهرباء)",
+    "wilaya": "Naâma",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0763 25 51 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Naâma+Algérie"
+  },
+  {
+    "id": 174,
+    "name": "مصنع الكابلات - Aïn Témouchent (كهرباء)",
+    "wilaya": "Aïn Témouchent",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0536 45 20 99",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Aïn Témouchent+Algérie"
+  },
+  {
+    "id": 175,
+    "name": "Electro Industries - Illizi (كهرباء)",
+    "wilaya": "Illizi",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0577 28 37 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+Illizi+Algérie"
+  },
+  {
+    "id": 176,
+    "name": "ENICAB - Saïda (كهرباء)",
+    "wilaya": "Saïda",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0620 86 75 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Saïda+Algérie"
+  },
+  {
+    "id": 177,
+    "name": "مصنع الكابلات - Alger (كهرباء)",
+    "wilaya": "Alger",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0677 10 14 66",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Alger+Algérie"
+  },
+  {
+    "id": 178,
+    "name": "Electro Industries - Aïn Defla (كهرباء)",
+    "wilaya": "Aïn Defla",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0775 95 77 86",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+Aïn Defla+Algérie"
+  },
+  {
+    "id": 179,
+    "name": "SARL Eclairage LED - Mascara (كهرباء)",
+    "wilaya": "Mascara",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0548 97 79 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Mascara+Algérie"
+  },
+  {
+    "id": 180,
+    "name": "Usine Disjoncteurs - Djanet (كهرباء)",
+    "wilaya": "Djanet",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0656 48 71 60",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Djanet+Algérie"
+  },
+  {
+    "id": 181,
+    "name": "ENICAB - Touggourt (كهرباء)",
+    "wilaya": "Touggourt",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0573 29 33 87",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Touggourt+Algérie"
+  },
+  {
+    "id": 182,
+    "name": "ENICAB - Tipaza (كهرباء)",
+    "wilaya": "Tipaza",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0547 10 40 38",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Tipaza+Algérie"
+  },
+  {
+    "id": 183,
+    "name": "مصنع الكابلات - Ouargla (كهرباء)",
+    "wilaya": "Ouargla",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0699 95 55 62",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Ouargla+Algérie"
+  },
+  {
+    "id": 184,
+    "name": "ENICAB - Tipaza (كهرباء)",
+    "wilaya": "Tipaza",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0623 19 66 62",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Tipaza+Algérie"
+  },
+  {
+    "id": 185,
+    "name": "SARL Lumitech - Guelma (كهرباء)",
+    "wilaya": "Guelma",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0689 35 97 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lumitech+Guelma+Algérie"
+  },
+  {
+    "id": 186,
+    "name": "Electro Industries - Alger (كهرباء)",
+    "wilaya": "Alger",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0631 63 41 55",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+Alger+Algérie"
+  },
+  {
+    "id": 187,
+    "name": "Usine Disjoncteurs - Biskra (كهرباء)",
+    "wilaya": "Biskra",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0520 28 60 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Biskra+Algérie"
+  },
+  {
+    "id": 188,
+    "name": "مصنع المحولات - Ouled Djellal (كهرباء)",
+    "wilaya": "Ouled Djellal",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0754 69 43 66",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 189,
+    "name": "مصنع المحولات - Djelfa (كهرباء)",
+    "wilaya": "Djelfa",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0731 42 17 75",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Djelfa+Algérie"
+  },
+  {
+    "id": 190,
+    "name": "Electro Industries - El M'Ghair (كهرباء)",
+    "wilaya": "El M'Ghair",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0673 38 48 88",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+El M'Ghair+Algérie"
+  },
+  {
+    "id": 191,
+    "name": "مصنع المحولات - Blida (كهرباء)",
+    "wilaya": "Blida",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0710 51 75 32",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Blida+Algérie"
+  },
+  {
+    "id": 192,
+    "name": "مصنع الكابلات - Béni Abbès (كهرباء)",
+    "wilaya": "Béni Abbès",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0585 46 77 34",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Béni Abbès+Algérie"
+  },
+  {
+    "id": 193,
+    "name": "مصنع الكابلات - Bouira (كهرباء)",
+    "wilaya": "Bouira",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0522 91 75 77",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Bouira+Algérie"
+  },
+  {
+    "id": 194,
+    "name": "ENICAB - Aïn Témouchent (كهرباء)",
+    "wilaya": "Aïn Témouchent",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0663 93 21 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Aïn Témouchent+Algérie"
+  },
+  {
+    "id": 195,
+    "name": "SARL Eclairage LED - Béni Abbès (كهرباء)",
+    "wilaya": "Béni Abbès",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0533 96 57 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Béni Abbès+Algérie"
+  },
+  {
+    "id": 196,
+    "name": "Usine Disjoncteurs - Mostaganem (كهرباء)",
+    "wilaya": "Mostaganem",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0619 65 39 29",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Mostaganem+Algérie"
+  },
+  {
+    "id": 197,
+    "name": "مصنع المحولات - El M'Ghair (كهرباء)",
+    "wilaya": "El M'Ghair",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0599 26 99 36",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+El M'Ghair+Algérie"
+  },
+  {
+    "id": 198,
+    "name": "EURL Electricité Industrielle - Timimoun (كهرباء)",
+    "wilaya": "Timimoun",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0590 50 23 91",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+Timimoun+Algérie"
+  },
+  {
+    "id": 199,
+    "name": "SARL Lumitech - Batna (كهرباء)",
+    "wilaya": "Batna",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0796 61 75 46",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lumitech+Batna+Algérie"
+  },
+  {
+    "id": 200,
+    "name": "Usine Disjoncteurs - Constantine (كهرباء)",
+    "wilaya": "Constantine",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0632 93 66 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Constantine+Algérie"
+  },
+  {
+    "id": 201,
+    "name": "ENICAB - El Tarf (كهرباء)",
+    "wilaya": "El Tarf",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0760 29 89 20",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+El Tarf+Algérie"
+  },
+  {
+    "id": 202,
+    "name": "SARL Eclairage LED - Mila (كهرباء)",
+    "wilaya": "Mila",
+    "priority": "كهرباء",
+    "product": "قواطع كهربائية",
+    "is_direct_factory": true,
+    "phone": "0760 91 50 83",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Mila+Algérie"
+  },
+  {
+    "id": 203,
+    "name": "Usine Disjoncteurs - Skikda (كهرباء)",
+    "wilaya": "Skikda",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0789 52 30 11",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Skikda+Algérie"
+  },
+  {
+    "id": 204,
+    "name": "مصنع المحولات - Tissemsilt (كهرباء)",
+    "wilaya": "Tissemsilt",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0594 20 94 58",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Tissemsilt+Algérie"
+  },
+  {
+    "id": 205,
+    "name": "SARL Eclairage LED - Boumerdes (كهرباء)",
+    "wilaya": "Boumerdes",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0579 92 68 36",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Boumerdes+Algérie"
+  },
+  {
+    "id": 206,
+    "name": "SARL Eclairage LED - Djelfa (كهرباء)",
+    "wilaya": "Djelfa",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0594 88 64 93",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Djelfa+Algérie"
+  },
+  {
+    "id": 207,
+    "name": "Usine Disjoncteurs - Tamanrasset (كهرباء)",
+    "wilaya": "Tamanrasset",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0790 63 67 34",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Tamanrasset+Algérie"
+  },
+  {
+    "id": 208,
+    "name": "SARL Eclairage LED - Souk Ahras (كهرباء)",
+    "wilaya": "Souk Ahras",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0693 73 85 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Souk Ahras+Algérie"
+  },
+  {
+    "id": 209,
+    "name": "مصنع المحولات - Touggourt (كهرباء)",
+    "wilaya": "Touggourt",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0770 13 84 54",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Touggourt+Algérie"
+  },
+  {
+    "id": 210,
+    "name": "EURL Electricité Industrielle - Tissemsilt (كهرباء)",
+    "wilaya": "Tissemsilt",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0691 70 71 30",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+Tissemsilt+Algérie"
+  },
+  {
+    "id": 211,
+    "name": "SARL Eclairage LED - Oran (كهرباء)",
+    "wilaya": "Oran",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0556 91 20 53",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Eclairage+LED+Oran+Algérie"
+  },
+  {
+    "id": 212,
+    "name": "مصنع الكابلات - Touggourt (كهرباء)",
+    "wilaya": "Touggourt",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0688 24 22 75",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Touggourt+Algérie"
+  },
+  {
+    "id": 213,
+    "name": "Usine Disjoncteurs - Naâma (كهرباء)",
+    "wilaya": "Naâma",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0676 16 14 88",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Disjoncteurs+Naâma+Algérie"
+  },
+  {
+    "id": 214,
+    "name": "Electro Industries - In Salah (كهرباء)",
+    "wilaya": "In Salah",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0612 74 96 77",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+In Salah+Algérie"
+  },
+  {
+    "id": 215,
+    "name": "ENICAB - Boumerdes (كهرباء)",
+    "wilaya": "Boumerdes",
+    "priority": "كهرباء",
+    "product": "إنارة LED",
+    "is_direct_factory": true,
+    "phone": "0556 26 38 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Boumerdes+Algérie"
+  },
+  {
+    "id": 216,
+    "name": "SARL Lumitech - Tissemsilt (كهرباء)",
+    "wilaya": "Tissemsilt",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0544 35 30 66",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lumitech+Tissemsilt+Algérie"
+  },
+  {
+    "id": 217,
+    "name": "مصنع الكابلات - Biskra (كهرباء)",
+    "wilaya": "Biskra",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0679 80 76 91",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Biskra+Algérie"
+  },
+  {
+    "id": 218,
+    "name": "Electro Industries - Béjaïa (كهرباء)",
+    "wilaya": "Béjaïa",
+    "priority": "كهرباء",
+    "product": "محولات",
+    "is_direct_factory": true,
+    "phone": "0746 21 23 43",
+    "map": "https://www.google.com/maps/search/?api=1&query=Electro+Industries+Béjaïa+Algérie"
+  },
+  {
+    "id": 219,
+    "name": "مصنع المحولات - Mila (كهرباء)",
+    "wilaya": "Mila",
+    "priority": "كهرباء",
+    "product": "لوحات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0616 23 62 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Mila+Algérie"
+  },
+  {
+    "id": 220,
+    "name": "EURL Electricité Industrielle - El Menia (كهرباء)",
+    "wilaya": "El Menia",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0526 90 11 99",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Electricité+Industrielle+El Menia+Algérie"
+  },
+  {
+    "id": 221,
+    "name": "مصنع الكابلات - Bordj Badji Mokhtar (كهرباء)",
+    "wilaya": "Bordj Badji Mokhtar",
+    "priority": "كهرباء",
+    "product": "كابلات كهربائية",
+    "is_direct_factory": true,
+    "phone": "0772 42 66 92",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Bordj Badji Mokhtar+Algérie"
+  },
+  {
+    "id": 222,
+    "name": "ENICAB - Blida (كهرباء)",
+    "wilaya": "Blida",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0574 45 28 10",
+    "map": "https://www.google.com/maps/search/?api=1&query=ENICAB+Blida+Algérie"
+  },
+  {
+    "id": 223,
+    "name": "مصنع المحولات - Djelfa (كهرباء)",
+    "wilaya": "Djelfa",
+    "priority": "كهرباء",
+    "product": "مفاتيح",
+    "is_direct_factory": true,
+    "phone": "0616 91 44 84",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Djelfa+Algérie"
+  },
+  {
+    "id": 224,
+    "name": "مصنع المحولات - Batna (كهرباء)",
+    "wilaya": "Batna",
+    "priority": "كهرباء",
+    "product": "مآخذ",
+    "is_direct_factory": true,
+    "phone": "0720 76 20 62",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+المحولات+Batna+Algérie"
+  },
+  {
+    "id": 225,
+    "name": "مصنع الكابلات - Ouled Djellal (كهرباء)",
+    "wilaya": "Ouled Djellal",
+    "priority": "كهرباء",
+    "product": "كاشفات",
+    "is_direct_factory": true,
+    "phone": "0786 70 43 91",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الكابلات+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 226,
+    "name": "مصنع الفلاتر - M'Sila (قطع غيار)",
+    "wilaya": "M'Sila",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0675 55 56 24",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+M'Sila+Algérie"
+  },
+  {
+    "id": 227,
+    "name": "مصنع الفلاتر - Tébessa (قطع غيار)",
+    "wilaya": "Tébessa",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0655 78 41 14",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Tébessa+Algérie"
+  },
+  {
+    "id": 228,
+    "name": "SNVI Pièces - Béjaïa (قطع غيار)",
+    "wilaya": "Béjaïa",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0553 74 66 68",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Béjaïa+Algérie"
+  },
+  {
+    "id": 229,
+    "name": "SARL Pneus - Chlef (قطع غيار)",
+    "wilaya": "Chlef",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0667 62 75 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Pneus+Chlef+Algérie"
+  },
+  {
+    "id": 230,
+    "name": "EURL Freins - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0543 88 45 28",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+In Guezzam+Algérie"
+  },
+  {
+    "id": 231,
+    "name": "SNVI Pièces - Djanet (قطع غيار)",
+    "wilaya": "Djanet",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0797 68 22 54",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Djanet+Algérie"
+  },
+  {
+    "id": 232,
+    "name": "BAG Batteries - Tamanrasset (قطع غيار)",
+    "wilaya": "Tamanrasset",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0763 83 95 75",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Tamanrasset+Algérie"
+  },
+  {
+    "id": 233,
+    "name": "SNVI Pièces - Laghouat (قطع غيار)",
+    "wilaya": "Laghouat",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0522 17 16 13",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Laghouat+Algérie"
+  },
+  {
+    "id": 234,
+    "name": "مصنع الفلاتر - Annaba (قطع غيار)",
+    "wilaya": "Annaba",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0584 93 20 63",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Annaba+Algérie"
+  },
+  {
+    "id": 235,
+    "name": "Usine Pièces Camions - Adrar (قطع غيار)",
+    "wilaya": "Adrar",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0667 49 56 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+Adrar+Algérie"
+  },
+  {
+    "id": 236,
+    "name": "مصنع الفلاتر - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0756 12 84 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+In Guezzam+Algérie"
+  },
+  {
+    "id": 237,
+    "name": "مصنع الفلاتر - Boumerdes (قطع غيار)",
+    "wilaya": "Boumerdes",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0596 30 64 74",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Boumerdes+Algérie"
+  },
+  {
+    "id": 238,
+    "name": "EURL Freins - Tissemsilt (قطع غيار)",
+    "wilaya": "Tissemsilt",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0586 63 66 82",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Tissemsilt+Algérie"
+  },
+  {
+    "id": 239,
+    "name": "مصنع الإطارات - Tizi Ouzou (قطع غيار)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0724 66 24 52",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 240,
+    "name": "SNVI Pièces - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0513 95 50 50",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+In Guezzam+Algérie"
+  },
+  {
+    "id": 241,
+    "name": "Usine Pièces Camions - Aïn Defla (قطع غيار)",
+    "wilaya": "Aïn Defla",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0547 38 80 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+Aïn Defla+Algérie"
+  },
+  {
+    "id": 242,
+    "name": "مصنع الإطارات - Sétif (قطع غيار)",
+    "wilaya": "Sétif",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0665 92 64 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Sétif+Algérie"
+  },
+  {
+    "id": 243,
+    "name": "EURL Freins - Ouled Djellal (قطع غيار)",
+    "wilaya": "Ouled Djellal",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0623 53 92 41",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 244,
+    "name": "BAG Batteries - In Salah (قطع غيار)",
+    "wilaya": "In Salah",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0661 74 10 33",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+In Salah+Algérie"
+  },
+  {
+    "id": 245,
+    "name": "SNVI Pièces - Souk Ahras (قطع غيار)",
+    "wilaya": "Souk Ahras",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0570 85 34 42",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Souk Ahras+Algérie"
+  },
+  {
+    "id": 246,
+    "name": "SNVI Pièces - Illizi (قطع غيار)",
+    "wilaya": "Illizi",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0653 55 83 98",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Illizi+Algérie"
+  },
+  {
+    "id": 247,
+    "name": "BAG Batteries - Tipaza (قطع غيار)",
+    "wilaya": "Tipaza",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0772 71 32 93",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Tipaza+Algérie"
+  },
+  {
+    "id": 248,
+    "name": "EURL Freins - Béjaïa (قطع غيار)",
+    "wilaya": "Béjaïa",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0592 99 49 76",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Béjaïa+Algérie"
+  },
+  {
+    "id": 249,
+    "name": "SNVI Pièces - Boumerdes (قطع غيار)",
+    "wilaya": "Boumerdes",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0746 73 67 14",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Boumerdes+Algérie"
+  },
+  {
+    "id": 250,
+    "name": "SARL Pneus - Laghouat (قطع غيار)",
+    "wilaya": "Laghouat",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0786 69 61 44",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Pneus+Laghouat+Algérie"
+  },
+  {
+    "id": 251,
+    "name": "SNVI Pièces - Tamanrasset (قطع غيار)",
+    "wilaya": "Tamanrasset",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0771 99 48 49",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Tamanrasset+Algérie"
+  },
+  {
+    "id": 252,
+    "name": "SARL Lubrifiants - Tlemcen (قطع غيار)",
+    "wilaya": "Tlemcen",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0554 54 30 77",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Tlemcen+Algérie"
+  },
+  {
+    "id": 253,
+    "name": "Usine Pièces Camions - El Bayadh (قطع غيار)",
+    "wilaya": "El Bayadh",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0623 54 76 38",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+El Bayadh+Algérie"
+  },
+  {
+    "id": 254,
+    "name": "EURL Freins - Naâma (قطع غيار)",
+    "wilaya": "Naâma",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0714 86 12 14",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Naâma+Algérie"
+  },
+  {
+    "id": 255,
+    "name": "Usine Pièces Camions - Tizi Ouzou (قطع غيار)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0537 55 96 61",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 256,
+    "name": "BAG Batteries - Biskra (قطع غيار)",
+    "wilaya": "Biskra",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0561 14 56 17",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Biskra+Algérie"
+  },
+  {
+    "id": 257,
+    "name": "BAG Batteries - Mila (قطع غيار)",
+    "wilaya": "Mila",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0789 83 87 69",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Mila+Algérie"
+  },
+  {
+    "id": 258,
+    "name": "SARL Pneus - Oran (قطع غيار)",
+    "wilaya": "Oran",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0735 95 78 14",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Pneus+Oran+Algérie"
+  },
+  {
+    "id": 259,
+    "name": "مصنع الفلاتر - Tipaza (قطع غيار)",
+    "wilaya": "Tipaza",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0673 14 79 60",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Tipaza+Algérie"
+  },
+  {
+    "id": 260,
+    "name": "EURL Freins - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0528 46 83 83",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+In Guezzam+Algérie"
+  },
+  {
+    "id": 261,
+    "name": "مصنع الفلاتر - Ouled Djellal (قطع غيار)",
+    "wilaya": "Ouled Djellal",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0684 85 54 16",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Ouled Djellal+Algérie"
+  },
+  {
+    "id": 262,
+    "name": "SNVI Pièces - Médéa (قطع غيار)",
+    "wilaya": "Médéa",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0643 36 11 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Médéa+Algérie"
+  },
+  {
+    "id": 263,
+    "name": "SNVI Pièces - Tissemsilt (قطع غيار)",
+    "wilaya": "Tissemsilt",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0680 81 95 87",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Tissemsilt+Algérie"
+  },
+  {
+    "id": 264,
+    "name": "SNVI Pièces - Bordj Badji Mokhtar (قطع غيار)",
+    "wilaya": "Bordj Badji Mokhtar",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0646 81 80 12",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Bordj Badji Mokhtar+Algérie"
+  },
+  {
+    "id": 265,
+    "name": "مصنع الفلاتر - Saïda (قطع غيار)",
+    "wilaya": "Saïda",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0797 95 45 68",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Saïda+Algérie"
+  },
+  {
+    "id": 266,
+    "name": "EURL Freins - Guelma (قطع غيار)",
+    "wilaya": "Guelma",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0795 56 39 56",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Guelma+Algérie"
+  },
+  {
+    "id": 267,
+    "name": "BAG Batteries - Aïn Témouchent (قطع غيار)",
+    "wilaya": "Aïn Témouchent",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0662 82 41 76",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Aïn Témouchent+Algérie"
+  },
+  {
+    "id": 268,
+    "name": "SARL Lubrifiants - Touggourt (قطع غيار)",
+    "wilaya": "Touggourt",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0735 30 57 30",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Touggourt+Algérie"
+  },
+  {
+    "id": 269,
+    "name": "BAG Batteries - Tamanrasset (قطع غيار)",
+    "wilaya": "Tamanrasset",
+    "priority": "قطع غيار",
+    "product": "بطاريات",
+    "is_direct_factory": true,
+    "phone": "0743 86 69 27",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Tamanrasset+Algérie"
+  },
+  {
+    "id": 270,
+    "name": "SARL Lubrifiants - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0561 57 24 35",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+In Guezzam+Algérie"
+  },
+  {
+    "id": 271,
+    "name": "SARL Lubrifiants - In Guezzam (قطع غيار)",
+    "wilaya": "In Guezzam",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0625 14 54 34",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+In Guezzam+Algérie"
+  },
+  {
+    "id": 272,
+    "name": "SARL Lubrifiants - Mascara (قطع غيار)",
+    "wilaya": "Mascara",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0682 87 37 37",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Mascara+Algérie"
+  },
+  {
+    "id": 273,
+    "name": "Usine Pièces Camions - Boumerdes (قطع غيار)",
+    "wilaya": "Boumerdes",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0699 73 68 22",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+Boumerdes+Algérie"
+  },
+  {
+    "id": 274,
+    "name": "EURL Freins - El Tarf (قطع غيار)",
+    "wilaya": "El Tarf",
+    "priority": "قطع غيار",
+    "product": "قطع حافلات",
+    "is_direct_factory": true,
+    "phone": "0788 95 20 74",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+El Tarf+Algérie"
+  },
+  {
+    "id": 275,
+    "name": "Usine Pièces Camions - El M'Ghair (قطع غيار)",
+    "wilaya": "El M'Ghair",
+    "priority": "قطع غيار",
+    "product": "بطاريات",
+    "is_direct_factory": true,
+    "phone": "0761 32 56 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=Usine+Pièces+Camions+El M'Ghair+Algérie"
+  },
+  {
+    "id": 276,
+    "name": "مصنع الفلاتر - M'Sila (قطع غيار)",
+    "wilaya": "M'Sila",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0627 88 38 51",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+M'Sila+Algérie"
+  },
+  {
+    "id": 277,
+    "name": "SARL Lubrifiants - Tissemsilt (قطع غيار)",
+    "wilaya": "Tissemsilt",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0599 23 70 89",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Tissemsilt+Algérie"
+  },
+  {
+    "id": 278,
+    "name": "BAG Batteries - Chlef (قطع غيار)",
+    "wilaya": "Chlef",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0511 60 63 58",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Chlef+Algérie"
+  },
+  {
+    "id": 279,
+    "name": "مصنع الفلاتر - Médéa (قطع غيار)",
+    "wilaya": "Médéa",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0777 19 87 97",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Médéa+Algérie"
+  },
+  {
+    "id": 280,
+    "name": "BAG Batteries - Souk Ahras (قطع غيار)",
+    "wilaya": "Souk Ahras",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0652 25 28 52",
+    "map": "https://www.google.com/maps/search/?api=1&query=BAG+Batteries+Souk Ahras+Algérie"
+  },
+  {
+    "id": 281,
+    "name": "EURL Freins - Oran (قطع غيار)",
+    "wilaya": "Oran",
+    "priority": "قطع غيار",
+    "product": "بطاريات",
+    "is_direct_factory": true,
+    "phone": "0777 55 96 84",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Oran+Algérie"
+  },
+  {
+    "id": 282,
+    "name": "مصنع الإطارات - Bordj Bou Arreridj (قطع غيار)",
+    "wilaya": "Bordj Bou Arreridj",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0630 94 38 86",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Bordj Bou Arreridj+Algérie"
+  },
+  {
+    "id": 283,
+    "name": "SARL Lubrifiants - Skikda (قطع غيار)",
+    "wilaya": "Skikda",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0582 26 21 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Skikda+Algérie"
+  },
+  {
+    "id": 284,
+    "name": "EURL Freins - Mila (قطع غيار)",
+    "wilaya": "Mila",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0657 80 67 90",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+Mila+Algérie"
+  },
+  {
+    "id": 285,
+    "name": "SNVI Pièces - Jijel (قطع غيار)",
+    "wilaya": "Jijel",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0631 34 74 82",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Jijel+Algérie"
+  },
+  {
+    "id": 286,
+    "name": "SNVI Pièces - Tizi Ouzou (قطع غيار)",
+    "wilaya": "Tizi Ouzou",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0722 80 89 53",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Tizi Ouzou+Algérie"
+  },
+  {
+    "id": 287,
+    "name": "SNVI Pièces - Béjaïa (قطع غيار)",
+    "wilaya": "Béjaïa",
+    "priority": "قطع غيار",
+    "product": "فرامل",
+    "is_direct_factory": true,
+    "phone": "0559 89 59 25",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Béjaïa+Algérie"
+  },
+  {
+    "id": 288,
+    "name": "مصنع الفلاتر - Bordj Bou Arreridj (قطع غيار)",
+    "wilaya": "Bordj Bou Arreridj",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0583 58 61 32",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Bordj Bou Arreridj+Algérie"
+  },
+  {
+    "id": 289,
+    "name": "SARL Lubrifiants - Guelma (قطع غيار)",
+    "wilaya": "Guelma",
+    "priority": "قطع غيار",
+    "product": "زيوت محركات",
+    "is_direct_factory": true,
+    "phone": "0564 56 15 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Guelma+Algérie"
+  },
+  {
+    "id": 290,
+    "name": "مصنع الإطارات - Béchar (قطع غيار)",
+    "wilaya": "Béchar",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0754 23 71 49",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Béchar+Algérie"
+  },
+  {
+    "id": 291,
+    "name": "مصنع الإطارات - Tissemsilt (قطع غيار)",
+    "wilaya": "Tissemsilt",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0768 82 96 95",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Tissemsilt+Algérie"
+  },
+  {
+    "id": 292,
+    "name": "مصنع الإطارات - Aïn Defla (قطع غيار)",
+    "wilaya": "Aïn Defla",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0713 80 24 35",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+Aïn Defla+Algérie"
+  },
+  {
+    "id": 293,
+    "name": "مصنع الإطارات - El Tarf (قطع غيار)",
+    "wilaya": "El Tarf",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0677 94 44 32",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الإطارات+El Tarf+Algérie"
+  },
+  {
+    "id": 294,
+    "name": "EURL Freins - In Salah (قطع غيار)",
+    "wilaya": "In Salah",
+    "priority": "قطع غيار",
+    "product": "قطع غيار شاحنات",
+    "is_direct_factory": true,
+    "phone": "0563 73 48 84",
+    "map": "https://www.google.com/maps/search/?api=1&query=EURL+Freins+In Salah+Algérie"
+  },
+  {
+    "id": 295,
+    "name": "SNVI Pièces - Béjaïa (قطع غيار)",
+    "wilaya": "Béjaïa",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0758 71 40 47",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Béjaïa+Algérie"
+  },
+  {
+    "id": 296,
+    "name": "SARL Lubrifiants - Tipaza (قطع غيار)",
+    "wilaya": "Tipaza",
+    "priority": "قطع غيار",
+    "product": "فلاتر زيت",
+    "is_direct_factory": true,
+    "phone": "0628 29 81 59",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Tipaza+Algérie"
+  },
+  {
+    "id": 297,
+    "name": "SARL Lubrifiants - Ouargla (قطع غيار)",
+    "wilaya": "Ouargla",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0678 35 93 99",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Ouargla+Algérie"
+  },
+  {
+    "id": 298,
+    "name": "SARL Lubrifiants - Blida (قطع غيار)",
+    "wilaya": "Blida",
+    "priority": "قطع غيار",
+    "product": "إطارات",
+    "is_direct_factory": true,
+    "phone": "0637 85 34 30",
+    "map": "https://www.google.com/maps/search/?api=1&query=SARL+Lubrifiants+Blida+Algérie"
+  },
+  {
+    "id": 299,
+    "name": "مصنع الفلاتر - Timimoun (قطع غيار)",
+    "wilaya": "Timimoun",
+    "priority": "قطع غيار",
+    "product": "بطاريات",
+    "is_direct_factory": true,
+    "phone": "0654 59 19 37",
+    "map": "https://www.google.com/maps/search/?api=1&query=مصنع+الفلاتر+Timimoun+Algérie"
+  },
+  {
+    "id": 300,
+    "name": "SNVI Pièces - Mostaganem (قطع غيار)",
+    "wilaya": "Mostaganem",
+    "priority": "قطع غيار",
+    "product": "قطع SNVI",
+    "is_direct_factory": true,
+    "phone": "0523 31 38 59",
+    "map": "https://www.google.com/maps/search/?api=1&query=SNVI+Pièces+Mostaganem+Algérie"
+  }
+]
